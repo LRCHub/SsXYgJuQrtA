@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "家(うち)に帰ろう（マイ・スイート・ホーム） [2022 Remaster]",
+  "base_artist": "Mariya Takeuchi",
+  "createdAt": "2026-02-14T13:52:17.867768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "家 (うち)に帰ろう (マイ・スイート・ホーム)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/01_家_(うち)に帰ろう_(マイ・スイート・ホーム)_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "家(うち)に帰ろう(マイ・スイート・ホーム)",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/02_家(うち)に帰ろう(マイ・スイート・ホーム)_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "家（うち）に帰ろう（マイ・スイート・ホーム）",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/03_家(うち)に帰ろう(マイ・スイート・ホーム)_竹内まりや.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "家 (うち)に帰ろう (マイ・スイート・ホーム)",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_01_家_(うち)に帰ろう_(マイ・スイート・ホーム)_竹内_まりや.txt"
+    }
+  ]
+}
